@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🔧 I'm currently working on two projects : Student project Ar Mare, Personnal learning project<br>👨‍🎓  I'm currently learning Unreal 5 and Unity multiplayer (NGO)<br>🤝 I'm searching for a 6 months internship !<br>📞 You can reach me by mail : jjonchay12@gmail.com<br>📁 My last projects : 
+👨‍🔧 I'm currently working on two projects : Student project Ar Mare, Personnal learning project<br>👨‍🎓  I'm currently learning Unreal 5 and Unity multiplayer (NGO)<br>🤝 I'm searching for a 6 months internship !<br>📞 You can reach me by mail : jjonchay12@gmail.com<br>📁 My last projects : https://gitlab.cnam-enjmin.fr/jules.sarton-du-jonchay.auditeur/armare ; https://github.com/jojoket/Proto_SideAction
 
 
 ## 🌐 Socials:
