@@ -2,6 +2,7 @@
 👨‍🔧 I'm currently working on two projects : Student project Ar Mare, Personal learning project<br>👨‍🎓  I'm currently learning Unreal 5 and Unity multiplayer (NGO)<br>🤝 I'm searching for a 6 months internship !<br>📞 You can reach me by mail : jjonchay12@gmail.com<br>📁 My last projects : 
 * https://github.com/jojoket/SystemicToolPublic
 * https://github.com/jojoket/DecanautesPublic
+* https://github.com/alvina-dr/nadir-giant-hunter-public
 * https://gitlab.cnam-enjmin.fr/jules.sarton-du-jonchay.auditeur/armare (soon a public version)
   
 # 💻 Tech Stack:
